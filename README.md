@@ -84,8 +84,6 @@ const anshu = {
 | 🔗 **[Project Name 2](https://github.com/anshukumar-204/repo-name)** | Short one-line description of what it does | Next.js, Firebase |
 | 🔗 **[Project Name 3](https://github.com/anshukumar-204/repo-name)** | Short one-line description of what it does | HTML, CSS, JavaScript |
 
-> 📌 Apne best 3-4 projects ke naam, link aur description yaha daal do.
-
 ---
 
 ## 📊 GitHub Stats
