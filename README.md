@@ -80,9 +80,9 @@ const anshu = {
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🔗 **[Project Name 1](https://github.com/anshukumar-204/repo-name)** | Short one-line description of what it does | React, Node.js, MongoDB |
-| 🔗 **[Project Name 2](https://github.com/anshukumar-204/repo-name)** | Short one-line description of what it does | Next.js, Firebase |
-| 🔗 **[Project Name 3](https://github.com/anshukumar-204/repo-name)** | Short one-line description of what it does | HTML, CSS, JavaScript |
+| 🔗 **[BhuDrishti-Ai](https://github.com/anshukumar-204/BhuDrishti-Ai_SIH-Project)** | Land Intelligence platform for GIS-based land research, analysis, datasets, and evidence-based land governance | React, Node.js, PostgreSQL, PostGIS, AI |
+| 🔗 **[My-Portfolio](https://github.com/anshukumar-204/My-Portfolio)** | Personal developer portfolio showcasing my projects, skills, experience, and web development work | HTML, CSS, JavaScript |
+| 🔗 **[Ai-Chat-Bot](https://github.com/anshukumar-204/Ai-Chat-Bot)** | Interactive AI chatbot interface for real-time conversations with a clean and responsive web experience | React.js, Node.js, Express.js, LangChain, FAISS, OpenAI API |
 
 ---
 
