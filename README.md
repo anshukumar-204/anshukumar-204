@@ -19,17 +19,14 @@
 
 ## 👨‍💻 About Me
 
-```js
-const anshu = {
-  role: "Full-Stack Web Developer",
-  stack: ["MongoDB", "Express.js", "React.js", "Node.js"],
-  currentlyBuilding: "Scalable & user-friendly web apps",
-  currentlyLearning: ["Advanced Backend", "REST APIs", "System Design"],
-  openTo: "Collaborating on innovative projects",
-  askMeAbout: ["Frontend", "React", "Responsive Web Design"],
-  funFact: "I love turning creative ideas into functional, impactful web solutions ⚡",
-};
-```
+💼 **Role** | Full-Stack Web Developer |
+| 🧰 **Stack** | MongoDB, Express.js, React.js, Node.js |
+| 🔭 **Building** | Scalable & user-friendly web apps |
+| 🌱 **Learning** | Advanced Backend, REST APIs, System Design |
+| 🤝 **Open to** | Collaborating on innovative projects |
+| 💬 **Ask me about** | Frontend, React, Responsive Web Design |
+| ⚡ **Fun fact** | I love turning creative ideas into functional, impactful web solutions |
+
 
 - 🔭 Currently building **scalable and user-friendly full-stack web applications**
 - 🤝 Open to collaborating on **MERN stack** and modern frontend projects
